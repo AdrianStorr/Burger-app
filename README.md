@@ -1,15 +1,15 @@
 # Burger-app
 
-![screenshot](./public/assets/images/burgerapp.png)
+![picture](./public/assets/images/burgerapp.png)
 
   ## Table of Contents
-  * [Description](Description)
-  * [Usage](Usage)
-  * [Installation](Installation)
-  * [License](License)
-  * [Contributors](contributers)
-  * [Test](Test)
-  * [Questions](Questions)
+  * [Description](#Description)
+  * [Usage](#Usage)
+  * [Installation](#Installation)
+  * [License](#License)
+  * [Contributors](#contributers)
+  * [Test](#Test)
+  * [Questions](#Questions)
 
   ## Description
    Following the MVC design pattern, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM.
