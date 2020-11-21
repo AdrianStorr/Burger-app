@@ -1,5 +1,6 @@
 # Burger-app
 
+![screenshot](./assets/images/burgerapp.png)
 
   ## Table of Contents
   * [Description](Description)
